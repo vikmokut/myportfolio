@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Victor Mokut",
-  title: "Cyber Security Enthusiast (Undergraduate)",
+  title: "Cyber Security Analyst",
   email: "victor.mokut@miva.edu.ng",
   gitHub: "vikmokut",
   instagram: "",
