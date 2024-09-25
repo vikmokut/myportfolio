@@ -30,9 +30,9 @@ const siteProps = {
   gitHub: "vikmokut",
   instagram: "",
   linkedIn: "victormokut",
-  medium: "@vikmokut",
+  medium: "vikmokut",
   twitter: "vikmokut",
-  youTube: "victormokut",
+  youTube: "@victormokut",
 };
 
 const primaryColor = "#4E567E";
